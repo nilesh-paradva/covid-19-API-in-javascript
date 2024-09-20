@@ -1,0 +1,15 @@
+:root{
+    --bs-border-color : #7A1CAC;
+}
+.allData-print{
+    background-color: rgba(173, 73, 225, 0.2);
+    transition: all 0.6s;
+}
+.allData-print:hover{
+    background-color: rgba(173, 73, 225, 0.3);
+}
+tr,td,th{
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+}
